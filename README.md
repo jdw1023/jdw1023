@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **jdw1023/jdw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
