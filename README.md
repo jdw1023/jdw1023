@@ -1,5 +1,5 @@
 ### Hello there 👋
-![.](https://jdw1023.github.io/test.svg)
+![](https://log.jdw.rocks/logger)
 
 <!--
 **jdw1023/jdw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
