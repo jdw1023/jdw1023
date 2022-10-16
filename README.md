@@ -1,6 +1,14 @@
 ### Hello there 👋
 ![](https://log.jdw.rocks/logger)
 
+- 👋 Hello, I’m JD Wang.
+- 👨‍💻 I’m interested in Computer Science and CyberSecurity.
+- 🌱 I’m currently studying Binary Exploitation and Reverse Engineering.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jdw1023&count_private=true&show_icons=true&theme=gruvbox)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdw1023&theme=gruvbox)]()
+
 <!--
 **jdw1023/jdw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
