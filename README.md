@@ -1,5 +1,4 @@
 ### Hello there 👋
-![](https://log.jdw.rocks/logger)
 
 - 👋 Hello, I’m JD Wang.
 - 👨‍💻 I’m interested in Computer Science and CyberSecurity.
@@ -12,6 +11,7 @@
 <!--
 **jdw1023/jdw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://log.jdw.rocks/logger)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
